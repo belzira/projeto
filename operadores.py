@@ -16,3 +16,5 @@ potencia = 5 ** 2
 
 
 print(somar, diminuir, multiplicar, dividir, resto_da_divisao, divisao_inteira, potencia)
+
+#adicionando no git
